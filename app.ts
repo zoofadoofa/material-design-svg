@@ -1,5 +1,8 @@
-import * as svgjs from 'svg.js';
-import 'svg.filter.js';
+// import * as svgjs from 'svg.js';
+// import 'svg.filter.js';
+// import 'material-shapes-svg';
+import './src/button/button';
+
 
 // import './src/chamferRect/chamferRect';
 // import './src/ripple/ripple';

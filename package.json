@@ -37,6 +37,7 @@
     "url": "https://github.com/zoofadoofa/material-design-svg.git"
   },
   "devDependencies": {
+    "@types/node": "^10.5.7",
     "autoprefixer": "^8.6.2",
     "awesome-typescript-loader": "^3.4.1",
     "babel-core": "^6.26.3",
@@ -47,8 +48,8 @@
     "extract-loader": "^2.0.1",
     "file-loader": "^1.1.11",
     "hoek": "5.0.3",
-    "npm-run-all": "^4.1.2",
     "node-sass": "^4.9.0",
+    "npm-run-all": "^4.1.2",
     "postcss-loader": "^2.1.5",
     "rimraf": "^2.6.2",
     "sass-loader": "^7.0.3",
